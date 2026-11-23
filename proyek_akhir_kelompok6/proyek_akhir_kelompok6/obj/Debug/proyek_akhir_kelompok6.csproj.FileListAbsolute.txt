@@ -1,0 +1,7 @@
+D:\unika asyifa f_ x pplg 2\proyek_akhir_kelompok6\proyek_akhir_kelompok6\bin\Debug\proyek_akhir_kelompok6.exe.config
+D:\unika asyifa f_ x pplg 2\proyek_akhir_kelompok6\proyek_akhir_kelompok6\bin\Debug\proyek_akhir_kelompok6.exe
+D:\unika asyifa f_ x pplg 2\proyek_akhir_kelompok6\proyek_akhir_kelompok6\bin\Debug\proyek_akhir_kelompok6.pdb
+D:\unika asyifa f_ x pplg 2\proyek_akhir_kelompok6\proyek_akhir_kelompok6\obj\Debug\proyek_akhir_kelompok6.csproj.AssemblyReference.cache
+D:\unika asyifa f_ x pplg 2\proyek_akhir_kelompok6\proyek_akhir_kelompok6\obj\Debug\proyek_akhir_kelompok6.csproj.CoreCompileInputs.cache
+D:\unika asyifa f_ x pplg 2\proyek_akhir_kelompok6\proyek_akhir_kelompok6\obj\Debug\proyek_akhir_kelompok6.exe
+D:\unika asyifa f_ x pplg 2\proyek_akhir_kelompok6\proyek_akhir_kelompok6\obj\Debug\proyek_akhir_kelompok6.pdb
